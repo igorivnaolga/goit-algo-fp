@@ -31,8 +31,6 @@ Then, based on this code, write a function to visualize a binary heap.
 
 👉🏻 Note: The purpose of the task is to create a tree structure from a heap.
 
-(The code block you included is not translated here since it's already Python.)
-
 ## Task 5: Visualization of Binary Tree Traversals
 
 Using the tree-building code from Task 4, you need to create a Python program that visualizes binary tree traversals: depth-first and breadth-first.
