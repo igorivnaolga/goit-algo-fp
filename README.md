@@ -80,3 +80,7 @@ Use this data to calculate the empirical probability of each sum.
 Create a table or graph showing the probabilities of each sum discovered using the Monte Carlo method.
 
 Compare your results with the theoretical probabilities shown in a reference table.
+
+## Conclusion Task 7
+
+The simulation successfully confirms the correctness of analytical probability calculations by using the Monte Carlo method. As the number of simulations increases, the statistical error decreases, and the results converge with theoretical expectations. This validates both the methodology of simulation and the theoretical model of dice roll probabilities.
